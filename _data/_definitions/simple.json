@@ -1,5 +1,9 @@
 {
   "name": {
     "required": true
+  },
+  "Image": {
+   "type": "image",
+   "label": "Upload Image"
   }
 }
